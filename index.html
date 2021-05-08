@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>tucuArt</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="formulario">
+      <h1>Pixel art</h1>
+
+      <div class="filas">
+        <label type="text">Filas</label>
+        <input type="number" id="inputNumber1" value="20" min="1" />
+        <input type="number" id="inputNumber2" value="20" min="1" />
+
+        <label for="tamaño">Tamaño</label>
+        <input type="number" id="tamanio" />
+        <label type="text">Bordes</label>
+        <input type="checkbox" id="bordesGrilla" checked />
+      </div>
+
+      <div class="grillas">
+        <button id="btnInput">Reiniciar</button>
+        <input type="color" id="inputColor" />
+        <button id="btnInputFondo">Fondo</button>
+        <input type="color" id="inputColorFondo" />
+        <button id="btnLapiz" class="estiloBorrar estiloLapiz"></button>
+        <button class="estiloBorrar" id="btnBorrar"></button>
+      </div>
+
+      <div id="container" class="grid-container"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
