@@ -12,8 +12,7 @@
 </ul>
 
 <li><h4>Lógica con javasCript</h4></li>
-<ul>
-<li>Traemos todos los elementos del html que vamos a usar, con el "id" del html usando document.getElementById(). Establecemos las constantes<li>
+<ul><li>Traemos todos los elementos del html que vamos a usar, con el "id" del html usando document.getElementById(). Establecemos las constantes<li>
 <li>Utilizamos el evento addEventListener(), en una función, con un evento "click", luego calculamos la cantidad de cuadriculas o grillas que vamos a generar, multiplicando "input1.value" * "input2.value"</li>
 <li>Creamos un for, para recorrer el numero de cuadriculas, tambien creamos un evento "click" para pintar(lapiz) y otro para borrar(goma).</li>
 <li>Creamos otro evento "click" que nos va a permitir pintar el fondo, y un for para recorrer las cuadriculas</li>
