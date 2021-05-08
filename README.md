@@ -1,5 +1,6 @@
 <h1>Pixel Art<h1>
 <p>La idea de este proyecto es crear una cuadricula en la que se puede pintar y dibujar</p>
+<p>link del proyecto: https://sznitowski.github.io/pixelArt/</p>
 <ol>
 <li><h2>Estructura Html</h2></li>
 <ul>
