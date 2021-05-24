@@ -2,7 +2,7 @@
 <p>La idea de este proyecto es crear una cuadricula en la que se puede pintar y dibujar</p>
 <p>link del proyecto: https://sznitowski.github.io/pixelArt/</p>
 <p align="center">
-  <img src="captura.png">
+  <img src="work1.png">
 <ol>
 <li><h4>Estructura Html</h4></li>
 <ul>
