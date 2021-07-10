@@ -1,4 +1,4 @@
-<h2>Pixel Art<h1>
+<h5>Pixel Art<h5>
 <p>La idea de este proyecto es crear una cuadricula en la que se puede pintar y dibujar</p>
 <p>link del proyecto: https://sznitowski.github.io/pixelArt/</p>
 <p align="center">
